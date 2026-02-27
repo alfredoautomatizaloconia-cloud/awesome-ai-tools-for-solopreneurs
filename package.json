@@ -1,0 +1,10 @@
+{
+  "name": "awesome-ai-tools-for-solopreneurs",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync-from-stackbuilt.mjs",
+    "build:readme": "node scripts/build-readme.mjs"
+  }
+}

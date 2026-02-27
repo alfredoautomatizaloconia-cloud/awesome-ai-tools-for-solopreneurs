@@ -1,0 +1,933 @@
+{
+  "generatedBy": "scripts/export-github-ai-list.mjs",
+  "generatedAt": "2026-02-27",
+  "total": 62,
+  "freeTools": 45,
+  "founderTools": 22,
+  "entries": [
+    {
+      "id": "codeium",
+      "name": "Codeium",
+      "oneLiner": "Free AI code completion and chat",
+      "category": "ai-development",
+      "categoryLabel": "AI Development",
+      "rating": 10,
+      "founderUses": true,
+      "useCases": [
+        "coding"
+      ],
+      "priceText": "Free + $12/month",
+      "githubUrl": "https://codeium.com/"
+    },
+    {
+      "id": "cursor",
+      "name": "Cursor",
+      "oneLiner": "The AI-first code editor",
+      "category": "ai-development",
+      "categoryLabel": "AI Development",
+      "rating": 10,
+      "founderUses": true,
+      "useCases": [
+        "workflows-ops",
+        "data-research"
+      ],
+      "priceText": "Free + $20/month",
+      "githubUrl": "https://cursor.sh/"
+    },
+    {
+      "id": "notion",
+      "name": "Notion",
+      "oneLiner": "Connected workspace for wiki, docs, and projects with AI",
+      "category": "productivity",
+      "categoryLabel": "Productivity",
+      "rating": 10,
+      "founderUses": true,
+      "useCases": [
+        "productivity",
+        "internal-tools"
+      ],
+      "priceText": "Free + $10/month",
+      "githubUrl": "https://notion.so/"
+    },
+    {
+      "id": "semrush",
+      "name": "Semrush",
+      "oneLiner": "Comprehensive SEO, PPC, and social media marketing suite",
+      "category": "seo",
+      "categoryLabel": "SEO",
+      "rating": 10,
+      "founderUses": true,
+      "useCases": [
+        "marketing",
+        "seo"
+      ],
+      "priceText": "$129/month",
+      "githubUrl": "https://semrush.com/"
+    },
+    {
+      "id": "airtable",
+      "name": "Airtable",
+      "oneLiner": "Cloud database and collaboration platform with AI",
+      "category": "no-code-platform",
+      "categoryLabel": "No Code Platform",
+      "rating": 9,
+      "founderUses": true,
+      "useCases": [
+        "workflows-ops",
+        "content-creation",
+        "data-research"
+      ],
+      "priceText": "Free + $20/month",
+      "githubUrl": "https://airtable.com/"
+    },
+    {
+      "id": "aws-sagemaker",
+      "name": "AWS SageMaker",
+      "oneLiner": "Comprehensive AWS ML service for model development",
+      "category": "ml-platform",
+      "categoryLabel": "ML Platform",
+      "rating": 9,
+      "founderUses": true,
+      "useCases": [
+        "data-research",
+        "workflows-ops"
+      ],
+      "priceText": "Free",
+      "githubUrl": "https://aws.amazon.com/"
+    },
+    {
+      "id": "bubble",
+      "name": "Bubble",
+      "oneLiner": "No-code web app builder for complex applications",
+      "category": "no-code-platform",
+      "categoryLabel": "No Code Platform",
+      "rating": 9,
+      "founderUses": true,
+      "useCases": [
+        "workflows-ops",
+        "customer-facing"
+      ],
+      "priceText": "Free + $32/month",
+      "githubUrl": "https://bubble.io/"
+    },
+    {
+      "id": "canva-pro",
+      "name": "Canva Pro",
+      "oneLiner": "Design anything with AI-powered tools",
+      "category": "ai-design",
+      "categoryLabel": "AI Design",
+      "rating": 9,
+      "founderUses": true,
+      "useCases": [
+        "content-creation"
+      ],
+      "priceText": "Free + $12.99/month",
+      "githubUrl": "https://www.canva.com/"
+    },
+    {
+      "id": "chatgpt",
+      "name": "ChatGPT",
+      "oneLiner": "OpenAI's conversational AI for content creation and Q&A",
+      "category": "ai-assistant",
+      "categoryLabel": "AI Assistant",
+      "rating": 9,
+      "founderUses": true,
+      "useCases": [
+        "content-creation",
+        "data-research",
+        "workflows-ops",
+        "customer-facing"
+      ],
+      "priceText": "Free + $20/month",
+      "githubUrl": "https://chat.openai.com/"
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "oneLiner": "Anthropic's advanced AI assistant for complex tasks",
+      "category": "ai-assistant",
+      "categoryLabel": "AI Assistant",
+      "rating": 9,
+      "founderUses": true,
+      "useCases": [
+        "writing-copy",
+        "market-research",
+        "workflow-automation"
+      ],
+      "priceText": "Free + $20/month",
+      "githubUrl": "https://claude.ai/"
+    },
+    {
+      "id": "elevenlabs",
+      "name": "ElevenLabs",
+      "oneLiner": "Ultra-realistic AI text-to-speech and voice cloning",
+      "category": "ai-audio",
+      "categoryLabel": "AI Audio",
+      "rating": 9,
+      "founderUses": true,
+      "useCases": [
+        "content-creation"
+      ],
+      "priceText": "Free + $5/month",
+      "githubUrl": "https://elevenlabs.io/"
+    },
+    {
+      "id": "grammarly",
+      "name": "Grammarly",
+      "oneLiner": "AI-powered writing assistant for grammar and clarity",
+      "category": "ai-writing",
+      "categoryLabel": "AI Writing",
+      "rating": 9,
+      "founderUses": true,
+      "useCases": [
+        "content-creation"
+      ],
+      "priceText": "Free + $12/month",
+      "githubUrl": "https://www.grammarly.com/"
+    },
+    {
+      "id": "granola",
+      "name": "Granola",
+      "oneLiner": "AI notepad that enhances your meeting notes automatically",
+      "category": "productivity",
+      "categoryLabel": "Productivity",
+      "rating": 9,
+      "founderUses": true,
+      "useCases": [
+        "productivity",
+        "workflow-automation"
+      ],
+      "priceText": "Free + $14/month",
+      "githubUrl": "https://granola.ai/"
+    },
+    {
+      "id": "hubspot",
+      "name": "HubSpot",
+      "oneLiner": "CRM and inbound marketing platform with AI features",
+      "category": "crm",
+      "categoryLabel": "Crm",
+      "rating": 9,
+      "founderUses": true,
+      "useCases": [
+        "marketing",
+        "sales",
+        "crm"
+      ],
+      "priceText": "Free + $20/month",
+      "githubUrl": "https://hubspot.com/"
+    },
+    {
+      "id": "make-com",
+      "name": "Make.com",
+      "oneLiner": "Connect any app to any app without code",
+      "category": "automation-workflows",
+      "categoryLabel": "Automation Workflows",
+      "rating": 9,
+      "founderUses": true,
+      "useCases": [
+        "workflow-automation",
+        "marketing-automation",
+        "lead-generation"
+      ],
+      "priceText": "Free + $9/month",
+      "githubUrl": "https://www.make.com/"
+    },
+    {
+      "id": "power-bi",
+      "name": "Microsoft Power BI",
+      "oneLiner": "Self-service BI with AI-powered insights",
+      "category": "analytics-bi",
+      "categoryLabel": "Analytics BI",
+      "rating": 9,
+      "founderUses": true,
+      "useCases": [
+        "data-research",
+        "workflows-ops"
+      ],
+      "priceText": "Free + $10/month",
+      "githubUrl": "https://powerbi.microsoft.com/"
+    },
+    {
+      "id": "n8n",
+      "name": "n8n",
+      "oneLiner": "Free and open workflow automation tool",
+      "category": "automation-workflows",
+      "categoryLabel": "Automation Workflows",
+      "rating": 9,
+      "founderUses": true,
+      "useCases": [
+        "workflows-ops",
+        "data-research"
+      ],
+      "priceText": "Free",
+      "githubUrl": "https://n8n.io/"
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity Pro",
+      "oneLiner": "AI search engine that cites sources",
+      "category": "ai-research",
+      "categoryLabel": "AI Research",
+      "rating": 9,
+      "founderUses": true,
+      "useCases": [
+        "data-research",
+        "content-creation"
+      ],
+      "priceText": "Free + $20/month",
+      "githubUrl": "https://perplexity.ai/"
+    },
+    {
+      "id": "reclaim-ai",
+      "name": "Reclaim.ai",
+      "oneLiner": "Smart calendar to optimize schedules and habits",
+      "category": "productivity",
+      "categoryLabel": "Productivity",
+      "rating": 9,
+      "founderUses": true,
+      "useCases": [
+        "productivity",
+        "scheduling"
+      ],
+      "priceText": "Free + $8/month",
+      "githubUrl": "https://reclaim.ai/"
+    },
+    {
+      "id": "retool",
+      "name": "Retool",
+      "oneLiner": "Low-code platform for internal tools and dashboards",
+      "category": "no-code-platform",
+      "categoryLabel": "No Code Platform",
+      "rating": 9,
+      "founderUses": true,
+      "useCases": [
+        "workflows-ops",
+        "data-research"
+      ],
+      "priceText": "Free + $10/month",
+      "githubUrl": "https://retool.com/"
+    },
+    {
+      "id": "stable-diffusion",
+      "name": "Stable Diffusion",
+      "oneLiner": "Open-source text-to-image model with full control",
+      "category": "ai-image",
+      "categoryLabel": "AI Image",
+      "rating": 9,
+      "founderUses": true,
+      "useCases": [
+        "content-creation"
+      ],
+      "priceText": "Free + $7/month",
+      "githubUrl": "https://stability.ai/"
+    },
+    {
+      "id": "chatbase",
+      "name": "Chatbase",
+      "oneLiner": "Build a chatbot from your data (PDFs, URLs)",
+      "category": "chatbot",
+      "categoryLabel": "Chatbot",
+      "rating": 9,
+      "founderUses": false,
+      "useCases": [
+        "customer-support",
+        "lead-gen"
+      ],
+      "priceText": "Free + $40/month",
+      "githubUrl": "https://chatbase.co/"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "oneLiner": "AI search engine for academic research papers",
+      "category": "ai-research",
+      "categoryLabel": "AI Research",
+      "rating": 9,
+      "founderUses": false,
+      "useCases": [
+        "research",
+        "education"
+      ],
+      "priceText": "Free + $8/month",
+      "githubUrl": "https://consensus.app/"
+    },
+    {
+      "id": "dalle-3",
+      "name": "DALL-E 3",
+      "oneLiner": "OpenAI's advanced text-to-image generation",
+      "category": "ai-image",
+      "categoryLabel": "AI Image",
+      "rating": 9,
+      "founderUses": false,
+      "useCases": [
+        "content-creation"
+      ],
+      "priceText": "$20/month",
+      "githubUrl": "https://openai.com/"
+    },
+    {
+      "id": "vertex-ai",
+      "name": "Google Vertex AI",
+      "oneLiner": "Unified ML platform on Google Cloud",
+      "category": "ml-platform",
+      "categoryLabel": "ML Platform",
+      "rating": 9,
+      "founderUses": false,
+      "useCases": [
+        "data-research",
+        "workflows-ops"
+      ],
+      "priceText": "Free",
+      "githubUrl": "https://cloud.google.com/"
+    },
+    {
+      "id": "heygen",
+      "name": "HeyGen",
+      "oneLiner": "Viral video translation and realistic custom avatars",
+      "category": "ai-video",
+      "categoryLabel": "AI Video",
+      "rating": 9,
+      "founderUses": false,
+      "useCases": [
+        "content-creation",
+        "marketing"
+      ],
+      "priceText": "Free + $29/month",
+      "githubUrl": "https://heygen.com/"
+    },
+    {
+      "id": "intercom",
+      "name": "Intercom",
+      "oneLiner": "Customer communications with AI chatbot (Fin)",
+      "category": "chatbot",
+      "categoryLabel": "Chatbot",
+      "rating": 9,
+      "founderUses": false,
+      "useCases": [
+        "customer-facing"
+      ],
+      "priceText": "$29/month",
+      "githubUrl": "https://www.intercom.com/"
+    },
+    {
+      "id": "midjourney",
+      "name": "Midjourney",
+      "oneLiner": "AI image generation for stunning visuals",
+      "category": "ai-image",
+      "categoryLabel": "AI Image",
+      "rating": 9,
+      "founderUses": false,
+      "useCases": [
+        "content-creation"
+      ],
+      "priceText": "$10/month",
+      "githubUrl": "https://midjourney.com/"
+    },
+    {
+      "id": "murf-ai",
+      "name": "Murf.ai",
+      "oneLiner": "Studio-quality voiceovers for professional presentations",
+      "category": "ai-audio",
+      "categoryLabel": "AI Audio",
+      "rating": 9,
+      "founderUses": false,
+      "useCases": [
+        "content-creation",
+        "elearning"
+      ],
+      "priceText": "Free + $19/month",
+      "githubUrl": "https://murf.ai/"
+    },
+    {
+      "id": "pictory",
+      "name": "Pictory",
+      "oneLiner": "Turn long-form content into short, shareable social clips",
+      "category": "ai-video",
+      "categoryLabel": "AI Video",
+      "rating": 9,
+      "founderUses": false,
+      "useCases": [
+        "content-creation",
+        "social-media"
+      ],
+      "priceText": "Free + $19/month",
+      "githubUrl": "https://pictory.ai/"
+    },
+    {
+      "id": "runway-ml",
+      "name": "Runway ML",
+      "oneLiner": "Generative AI suite for video creation and editing",
+      "category": "ai-video",
+      "categoryLabel": "AI Video",
+      "rating": 9,
+      "founderUses": false,
+      "useCases": [
+        "content-creation"
+      ],
+      "priceText": "Free + $12/month",
+      "githubUrl": "https://runwayml.com/"
+    },
+    {
+      "id": "speechify",
+      "name": "Speechify",
+      "oneLiner": "Converts text, books, and PDFs into audio",
+      "category": "ai-audio",
+      "categoryLabel": "AI Audio",
+      "rating": 9,
+      "founderUses": false,
+      "useCases": [
+        "productivity",
+        "accessibility"
+      ],
+      "priceText": "Free + $11/month",
+      "githubUrl": "https://speechify.com/"
+    },
+    {
+      "id": "surfer-seo",
+      "name": "Surfer SEO",
+      "oneLiner": "AI analysis of top-ranking content for optimization",
+      "category": "seo",
+      "categoryLabel": "SEO",
+      "rating": 9,
+      "founderUses": false,
+      "useCases": [
+        "content-creation",
+        "seo"
+      ],
+      "priceText": "$89/month",
+      "githubUrl": "https://surferseo.com/"
+    },
+    {
+      "id": "tableau",
+      "name": "Tableau",
+      "oneLiner": "Leading data visualization and BI platform",
+      "category": "analytics-bi",
+      "categoryLabel": "Analytics BI",
+      "rating": 9,
+      "founderUses": false,
+      "useCases": [
+        "data-research",
+        "workflows-ops"
+      ],
+      "priceText": "$70/month",
+      "githubUrl": "https://www.tableau.com/"
+    },
+    {
+      "id": "anything",
+      "name": "Anything",
+      "oneLiner": "AI app builder for sites, internal tools, and lightweight products from prompts",
+      "category": "app-builder",
+      "categoryLabel": "App Builder",
+      "rating": 8,
+      "founderUses": true,
+      "useCases": [
+        "internal-tools",
+        "workflow-automation",
+        "productivity"
+      ],
+      "priceText": "Free + $20/month",
+      "githubUrl": "https://anything.link/"
+    },
+    {
+      "id": "anyword",
+      "name": "Anyword",
+      "oneLiner": "Performance writing with predictive scoring for ad copy",
+      "category": "ai-writing",
+      "categoryLabel": "AI Writing",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "marketing",
+        "content-creation"
+      ],
+      "priceText": "$39/month",
+      "githubUrl": "https://anyword.com/"
+    },
+    {
+      "id": "bito-ai",
+      "name": "Bito AI",
+      "oneLiner": "AI coding assistant for teams and CTOs",
+      "category": "ai-development",
+      "categoryLabel": "AI Development",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "coding",
+        "team-productivity"
+      ],
+      "priceText": "Free + $15/month",
+      "githubUrl": "https://bito.ai/"
+    },
+    {
+      "id": "buffer",
+      "name": "Buffer",
+      "oneLiner": "Social media scheduling and analytics for creators and teams",
+      "category": "social-media",
+      "categoryLabel": "Social Media",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "marketing-automation",
+        "seo-content",
+        "lead-generation",
+        "writing-copy"
+      ],
+      "priceText": "Free + $20/month",
+      "githubUrl": "https://join.buffer.com/"
+    },
+    {
+      "id": "colossyan",
+      "name": "Colossyan",
+      "oneLiner": "AI video generation focusing on L&D and training",
+      "category": "ai-video",
+      "categoryLabel": "AI Video",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "training",
+        "content-creation"
+      ],
+      "priceText": "Free + $30/month",
+      "githubUrl": "https://colossyan.com/"
+    },
+    {
+      "id": "trycomp",
+      "name": "Comp AI",
+      "oneLiner": "AI-powered compliance automation for SOC 2, ISO 27001, and more",
+      "category": "compliance",
+      "categoryLabel": "Compliance",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "workflow-automation",
+        "internal-tools"
+      ],
+      "priceText": "$199/month",
+      "githubUrl": "https://trycomp.ai/"
+    },
+    {
+      "id": "copy-ai",
+      "name": "Copy.ai",
+      "oneLiner": "Write marketing copy in seconds with AI",
+      "category": "ai-writing",
+      "categoryLabel": "AI Writing",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "content-creation"
+      ],
+      "priceText": "Free + $36/month",
+      "githubUrl": "https://www.copy.ai/"
+    },
+    {
+      "id": "dialogflow",
+      "name": "Dialogflow",
+      "oneLiner": "Google's platform for building AI chatbots",
+      "category": "chatbot",
+      "categoryLabel": "Chatbot",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "customer-facing"
+      ],
+      "priceText": "Free",
+      "githubUrl": "https://cloud.google.com/"
+    },
+    {
+      "id": "frase",
+      "name": "Frase",
+      "oneLiner": "SEO content briefs and optimization",
+      "category": "ai-writing",
+      "categoryLabel": "AI Writing",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "content-creation",
+        "seo"
+      ],
+      "priceText": "$15/month",
+      "githubUrl": "https://frase.io/"
+    },
+    {
+      "id": "gemini",
+      "name": "Google Gemini",
+      "oneLiner": "Google's multimodal AI with Search integration",
+      "category": "ai-assistant",
+      "categoryLabel": "AI Assistant",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "content-creation",
+        "data-research"
+      ],
+      "priceText": "Free",
+      "githubUrl": "https://gemini.google.com/"
+    },
+    {
+      "id": "headshotpro",
+      "name": "HeadshotPro",
+      "oneLiner": "Professional LinkedIn photos from selfies",
+      "category": "ai-image",
+      "categoryLabel": "AI Image",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "personal-branding"
+      ],
+      "priceText": "$29 one-time",
+      "githubUrl": "https://headshotpro.com/"
+    },
+    {
+      "id": "invideo",
+      "name": "InVideo",
+      "oneLiner": "Robust video editor with AI capabilities",
+      "category": "ai-video",
+      "categoryLabel": "AI Video",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "content-creation",
+        "video-editing"
+      ],
+      "priceText": "Free + $15/month",
+      "githubUrl": "https://invideo.io/"
+    },
+    {
+      "id": "jasper",
+      "name": "Jasper",
+      "oneLiner": "AI writing assistant trained for marketing content",
+      "category": "ai-writing",
+      "categoryLabel": "AI Writing",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "content-creation"
+      ],
+      "priceText": "$49/month",
+      "githubUrl": "https://www.jasper.ai/"
+    },
+    {
+      "id": "labelbox",
+      "name": "Labelbox",
+      "oneLiner": "Data labeling platform for ML training",
+      "category": "ml-data-labeling",
+      "categoryLabel": "ML Data Labeling",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "data-research",
+        "workflows-ops"
+      ],
+      "priceText": "Free",
+      "githubUrl": "https://labelbox.com/"
+    },
+    {
+      "id": "leonardo-ai",
+      "name": "Leonardo AI",
+      "oneLiner": "AI image generation for game assets and art",
+      "category": "ai-image",
+      "categoryLabel": "AI Image",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "content-creation"
+      ],
+      "priceText": "Free + $10/month",
+      "githubUrl": "https://leonardo.ai/"
+    },
+    {
+      "id": "livechat",
+      "name": "LiveChat",
+      "oneLiner": "Customer service suite with AI ChatBot capabilities",
+      "category": "customer-support",
+      "categoryLabel": "Customer Support",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "customer-support",
+        "sales"
+      ],
+      "priceText": "$20/month",
+      "githubUrl": "https://livechat.com/"
+    },
+    {
+      "id": "marblism",
+      "name": "Marblism",
+      "oneLiner": "Generate a full-stack web app from a prompt in minutes",
+      "category": "internal-tools",
+      "categoryLabel": "Internal Tools",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "internal-tools",
+        "coding-development"
+      ],
+      "priceText": "$39/month",
+      "githubUrl": "https://marblism.com/"
+    },
+    {
+      "id": "power-automate",
+      "name": "Microsoft Power Automate",
+      "oneLiner": "RPA and workflow automation in Microsoft ecosystem",
+      "category": "rpa",
+      "categoryLabel": "RPA",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "workflows-ops",
+        "customer-facing"
+      ],
+      "priceText": "Free + $15/month",
+      "githubUrl": "https://powerautomate.microsoft.com/"
+    },
+    {
+      "id": "photoai",
+      "name": "PhotoAI",
+      "oneLiner": "Virtual photographer for generated photos",
+      "category": "ai-image",
+      "categoryLabel": "AI Image",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "content-creation",
+        "personal-branding"
+      ],
+      "priceText": "$29/month",
+      "githubUrl": "https://photoai.com/"
+    },
+    {
+      "id": "synthesia",
+      "name": "Synthesia",
+      "oneLiner": "AI video generator with lifelike avatars",
+      "category": "ai-video",
+      "categoryLabel": "AI Video",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "content-creation",
+        "customer-facing"
+      ],
+      "priceText": "$18/month",
+      "githubUrl": "https://www.synthesia.io/"
+    },
+    {
+      "id": "tabnine",
+      "name": "Tabnine",
+      "oneLiner": "AI code completions with privacy and enterprise focus",
+      "category": "ai-development",
+      "categoryLabel": "AI Development",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "coding",
+        "security"
+      ],
+      "priceText": "Free + $12/month",
+      "githubUrl": "https://tabnine.com/"
+    },
+    {
+      "id": "uipath",
+      "name": "UiPath",
+      "oneLiner": "Enterprise RPA platform for process automation",
+      "category": "rpa",
+      "categoryLabel": "RPA",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "workflows-ops"
+      ],
+      "priceText": "Free + $25/month",
+      "githubUrl": "https://www.uipath.com/"
+    },
+    {
+      "id": "wispr",
+      "name": "Wispr Flow",
+      "oneLiner": "AI voice dictation that types for you anywhere on your Mac",
+      "category": "productivity",
+      "categoryLabel": "Productivity",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "productivity",
+        "writing-copy"
+      ],
+      "priceText": "Free + $15/month",
+      "githubUrl": "https://wisprflow.ai/"
+    },
+    {
+      "id": "writesonic",
+      "name": "Writesonic",
+      "oneLiner": "Feature-dense AI platform with Chatsonic and Audiosonic",
+      "category": "ai-writing",
+      "categoryLabel": "AI Writing",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "content-creation",
+        "marketing"
+      ],
+      "priceText": "Free + $16/month",
+      "githubUrl": "https://writesonic.com/"
+    },
+    {
+      "id": "zapier",
+      "name": "Zapier",
+      "oneLiner": "The easiest way to automate your work",
+      "category": "automation-workflows",
+      "categoryLabel": "Automation Workflows",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "content-creation",
+        "workflows-ops",
+        "customer-facing"
+      ],
+      "priceText": "Free + $19/month",
+      "githubUrl": "https://zapier.com/"
+    },
+    {
+      "id": "adcreative-ai",
+      "name": "AdCreative.ai",
+      "oneLiner": "Performance marketing assets optimized for conversion",
+      "category": "ai-design",
+      "categoryLabel": "AI Design",
+      "rating": 7,
+      "founderUses": false,
+      "useCases": [
+        "marketing",
+        "advertising"
+      ],
+      "priceText": "$29/month",
+      "githubUrl": "https://adcreative.ai/"
+    },
+    {
+      "id": "deepbrain",
+      "name": "DeepBrain",
+      "oneLiner": "Conversational AI kiosks and interactive video",
+      "category": "ai-video",
+      "categoryLabel": "AI Video",
+      "rating": 7,
+      "founderUses": false,
+      "useCases": [
+        "customer-service",
+        "content-creation"
+      ],
+      "priceText": "$30/month",
+      "githubUrl": "https://deepbrain.io/"
+    },
+    {
+      "id": "rytr",
+      "name": "Rytr",
+      "oneLiner": "Budget-friendly, lightweight AI writing assistant",
+      "category": "ai-writing",
+      "categoryLabel": "AI Writing",
+      "rating": 7,
+      "founderUses": false,
+      "useCases": [
+        "content-creation"
+      ],
+      "priceText": "Free + $9/month",
+      "githubUrl": "https://rytr.me/"
+    }
+  ]
+}

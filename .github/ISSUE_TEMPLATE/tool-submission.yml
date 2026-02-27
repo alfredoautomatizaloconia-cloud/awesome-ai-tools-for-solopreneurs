@@ -1,0 +1,30 @@
+name: Tool submission
+about: Suggest a new AI tool for the list
+labels: ["submission"]
+body:
+  - type: input
+    id: tool_name
+    attributes:
+      label: Tool name
+      placeholder: ExampleTool
+    validations:
+      required: true
+  - type: input
+    id: tool_url
+    attributes:
+      label: Tool URL (non-affiliate)
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: textarea
+    id: one_liner
+    attributes:
+      label: Practical one-liner
+      placeholder: What does it do for solopreneurs?
+    validations:
+      required: true
+  - type: input
+    id: pricing
+    attributes:
+      label: Pricing
+      placeholder: Free + $20/month
