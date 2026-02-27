@@ -8,6 +8,19 @@ function anchor(text) {
   return text.toLowerCase().replace(/[^a-z0-9\s-]/g, "").trim().replace(/\s+/g, "-");
 }
 
+function prettyCategory(label) {
+  const normalized = String(label || "").trim();
+  const upperMap = new Map([
+    ["Crm", "CRM"],
+    ["Seo", "SEO"],
+    ["Rpa", "RPA"],
+    ["Ml", "ML"],
+    ["Bi", "BI"],
+  ]);
+
+  return upperMap.get(normalized) || normalized;
+}
+
 function toCategoryOrder(entries) {
   const counts = new Map();
   for (const item of entries) {
@@ -60,13 +73,15 @@ function buildReadme(data) {
   lines.push("## Contents");
   for (const category of categories) {
     const list = grouped.get(category) || [];
-    lines.push(`- [${category}](#${anchor(category)}) (${list.length})`);
+    const displayCategory = prettyCategory(category);
+    lines.push(`- [${displayCategory}](#${anchor(displayCategory)}) (${list.length})`);
   }
   lines.push("");
 
   for (const category of categories) {
     const list = grouped.get(category) || [];
-    lines.push(`## ${category}`);
+    const displayCategory = prettyCategory(category);
+    lines.push(`## ${displayCategory}`);
     lines.push("");
     for (const item of list) {
       const price = item.priceText ? ` Price: ${item.priceText}.` : "";

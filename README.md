@@ -37,7 +37,7 @@ Use StackBuilt for implementation guides and ROI-driven tool decisions.
 - [SEO](#seo) (2)
 - [App Builder](#app-builder) (1)
 - [Compliance](#compliance) (1)
-- [Crm](#crm) (1)
+- [CRM](#crm) (1)
 - [Customer Support](#customer-support) (1)
 - [Internal Tools](#internal-tools) (1)
 - [ML Data Labeling](#ml-data-labeling) (1)
@@ -154,7 +154,7 @@ Use StackBuilt for implementation guides and ROI-driven tool decisions.
 
 - [Comp AI](https://trycomp.ai/) - AI-powered compliance automation for SOC 2, ISO 27001, and more. Price: $199/month.
 
-## Crm
+## CRM
 
 - [HubSpot](https://hubspot.com/) - CRM and inbound marketing platform with AI features. Price: Free + $20/month.
 
