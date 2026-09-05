@@ -13,7 +13,7 @@ Use StackBuilt for implementation guides and ROI-driven tool decisions.
 - Affiliate links and disclosures stay on stackbuilt.co.
 
 ## Snapshot
-- Tools: 62
+- Tools: 63
 - Free tools: 45
 - Founder-tested picks: 22
 - Last sync: 2026-02-27
@@ -42,6 +42,7 @@ Use StackBuilt for implementation guides and ROI-driven tool decisions.
 - [Internal Tools](#internal-tools) (1)
 - [ML Data Labeling](#ml-data-labeling) (1)
 - [Social Media](#social-media) (1)
+- [Voice Agents](#voice-agents) (1)
 
 ## AI Video
 
@@ -173,6 +174,10 @@ Use StackBuilt for implementation guides and ROI-driven tool decisions.
 ## Social Media
 
 - [Buffer](https://join.buffer.com/) - Social media scheduling and analytics for creators and teams. Price: Free + $20/month.
+
+## Voice Agents
+
+- [Hermes](https://www.buildwithhermes.com/) - Run AI phone agents under your own brand, with CRM, campaigns, and per-client billing included. Price: $149/month.
 
 ## Contributing
 - Read [CONTRIBUTING.md](CONTRIBUTING.md).
