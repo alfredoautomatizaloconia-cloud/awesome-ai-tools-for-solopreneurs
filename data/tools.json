@@ -1,7 +1,7 @@
 {
   "generatedBy": "scripts/export-github-ai-list.mjs",
   "generatedAt": "2026-02-27",
-  "total": 62,
+  "total": 63,
   "freeTools": 45,
   "founderTools": 22,
   "entries": [
@@ -928,6 +928,21 @@
       ],
       "priceText": "Free + $9/month",
       "githubUrl": "https://rytr.me/"
+    },
+    {
+      "id": "hermes",
+      "name": "Hermes",
+      "oneLiner": "Run AI phone agents under your own brand, with CRM, campaigns, and per-client billing included",
+      "category": "voice-agents",
+      "categoryLabel": "Voice Agents",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "workflows-ops",
+        "sales-outreach"
+      ],
+      "priceText": "$149/month",
+      "githubUrl": "https://www.buildwithhermes.com/"
     }
   ]
 }
